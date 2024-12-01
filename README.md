@@ -19,8 +19,10 @@
    - [2.7 IGBT Bridge](#27-igbt-bridge)  
    - [2.8 Fan Control](#28-fan-control)  
    - [2.9 Output Section](#29-output-section)  
-3. [Working Principle](#3-working-principle)  
-4. [Advantages](#4-advantages)  
+3. [Working Principle](#3-working-principle)
+4. [List of Components](#List-of-Materials)
+5. [Note](#Notes)
+6. [Advantages](#4-advantages)  
 
 ---
 
@@ -109,6 +111,46 @@ The Full Sine Wave Inverter circuit is designed to convert DC power into a clean
    The fan control circuit activates the cooling fan when the temperature exceeds a certain threshold, preventing component overheating.
 
 ---
+
+
+
+#### **List of Materials**  
+
+| **Quantity** | **Component**                          | **Specification**                    | **Notes**                          |
+|--------------|----------------------------------------|--------------------------------------|------------------------------------|
+| 1            | EGS002 Driver                          | Integrated SPWM driver module        | Main control module               |
+| 4            | FGH40N65 IGBTs                         | 650V, 40A                            | Used in the IGBT bridge           |
+| 1            | Inverter                               | 500W                                 | Output power rating               |
+| 2            | Shunt Resistor                         | 20mΩ                                 | For current sensing               |
+| 2            | Electrolytic Capacitor                 | 450V, 100µF                          | High voltage DC filtering         |
+| 1            | Electrolytic Capacitor                 | 35V, 100µF                           | Voltage regulation support        |
+| 2            | Electrolytic Capacitor                 | 25V, 470µF                           | Voltage stabilization             |
+| 1            | L7815 Regulator                        | 15V output voltage                   | For regulated 15V supply          |
+| 1            | L7805 Regulator                        | 5V output voltage                    | For regulated 5V supply           |
+| 4            | HER207 Diode                           | High-efficiency rectifier            | For rectification in power stage  |
+| 1            | S8050 BJT Transistor                   | NPN, 1.5A                            | Fan control circuit               |
+| 1            | Potentiometer                          | 10K, 20-turns                        | Used in voltage feedback loop     |
+| 4            | 1N4148 Diode                           | Signal diode                         | Snubber circuit for IGBTs         |
+| 1            | Inductor                               | 2000W, 2.5mH, 10A                   | Sine wave filtering               |
+| 4            | Resistor                               | 100K, 1/2W                           | For voltage feedback              |
+| 1            | Choke Filter                           | Custom specification                 | Reduces EMI interference          |
+| 1            | Film Capacitor                         | 100nF, 275V                          | AC filtering                      |
+| 2            | Ceramic Capacitor                      | 2.2µF, 630V                          | Snubber for transformer           |
+| Varies       | Through-Hole Resistors                | Per schematic values                 | Used throughout the circuit       |
+| 1            | Heatsink                               | Compatible with IGBTs                | Dissipates heat                   |
+| 1            | Slide Switch                           | SPST                                 | Power control                     |
+| 1            | Cooling Fan                            | 40mm                                 | For thermal management            |
+| 1            | Case                                   | 240mm x 120mm                        | For housing the inverter          |
+| 1            | Plastic Screw                          | M3                                   | For secure mounting               |
+| 1            | Rectifier Bridge                       | GBU404 or equivalent                 | High-voltage rectification        |
+
+---
+
+### **Notes**  
+1. **Component Sourcing:** All components should be sourced from trusted suppliers to ensure reliability and performance.  
+2. **Assembly Tips:** Use appropriate heatsinks for IGBTs and regulators, and ensure proper insulation of high-voltage components.  
+3. **Testing:** Test individual subsystems (e.g., voltage regulation, feedback, and driver circuits) before full assembly.  
+4. **Safety:** Ensure the enclosure is non-conductive and well-ventilated for safe operation.
 
 ### **4. Advantages**
 - **Pure Sine Wave Output:** Ensures compatibility with sensitive electronics.  
