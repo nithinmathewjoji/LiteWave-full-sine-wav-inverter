@@ -21,8 +21,9 @@
    - [2.9 Output Section](#29-output-section)  
 3. [Working Principle](#3-working-principle)
 4. [List of Components](#List-of-Materials)
-5. [Note](#Notes)
-6. [Advantages](#4-advantages)  
+5. [View ibom](https://nithinmathewjoji.github.io/LiteWave-full-sine-wav-inverter/)
+6. [Note](#Notes)
+7. [Advantages](#4-advantages)  
 
 ---
 
