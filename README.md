@@ -23,7 +23,8 @@
 4. [List of Components](#List-of-Materials)
 5. [View ibom](https://nithinmathewjoji.github.io/LiteWave-full-sine-wav-inverter/)
 6. [Note](#Notes)
-7. [Advantages](#4-advantages)  
+7. [Advantages](#4-advantages)
+8. [Read License](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter/blob/master/LICENSE)
 
 ---
 
