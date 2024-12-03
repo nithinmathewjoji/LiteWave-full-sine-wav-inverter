@@ -9,7 +9,7 @@
 
 
 ## PCB 3D View 
-![3d view 1](https://github.com/user-attachments/assets/914c7aeb-5730-4b55-ac19-aacf3ea2e0b3)
+![3d view 1](https://github.com/user-attachments/assets/914c7aeb-5730-4b55-ac19-aacf3ea2e0b)
 
 ## PCB 3D View 
-![3d view 2](https://github.com/user-attachments/assets/ddbdb543-8ad0-417c-8dac-05e382067b84)
+![3d view 2](![3d view 2](https://github.com/user-attachments/assets/ca2fdce7-82da-43eb-bf07-16fbf770680a)
