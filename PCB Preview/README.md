@@ -5,7 +5,7 @@
 
 
 ## PCB Back
-![bottom](https://github.com/user-attachments/assets/9be7d940-cead-404a-86ba-7bca2bc90869)
+![bottom](bottom.svg)
 
 
 ## PCB 3D View 
