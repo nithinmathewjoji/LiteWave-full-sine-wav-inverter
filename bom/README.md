@@ -1,3 +1,5 @@
+# csv data of Project BOM 
+- if you find this hard to process visit interactive BOM [click here to visit](https://nithinmathewjoji.github.io/LiteWave-full-sine-wav-inverter/)
 
 | ID  | Name               | Designator                    | Footprint                          | Quantity | Manufacturer Part         | Manufacturer        | Supplier | Supplier Part | Price   |
 |-----|--------------------|-------------------------------|-------------------------------------|----------|---------------------------|---------------------|----------|---------------|---------|
