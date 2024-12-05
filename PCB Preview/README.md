@@ -1,4 +1,4 @@
-#PCB Details
+# PCB Details
 Here's a well-structured README table for the provided data:
 
 | **Parameter**               | **Details**                 |
