@@ -21,7 +21,7 @@
    - [2.9 Output Section](#29-output-section)  
 3. [Working Principle](#3-working-principle)
 4. [List of Components](#List-of-Materials)
-5. [The CSV data is available here click to view](./data.csv)
+5. [BOM CSV data is available here click to view](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter/blob/master/bom/README.md)
 6. [View ibom (interactive bill of materials webpage)](https://nithinmathewjoji.github.io/LiteWave-full-sine-wav-inverter/)
 7. [PCB Details & preview](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter/blob/master/README.md#pcb-details--preview)
 8. [Note](#Notes)
