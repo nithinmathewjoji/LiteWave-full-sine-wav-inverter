@@ -22,7 +22,7 @@
 3. [Working Principle](#3-working-principle)
 4. [List of Components](#List-of-Materials)
 5. [View ibom](https://nithinmathewjoji.github.io/LiteWave-full-sine-wav-inverter/)
-6. [PCB Details & preview](#PCB-Details-&-preview)
+6. [PCB Details & preview]([#PCB-Details-&-preview](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter/blob/master/README.md#pcb-details--preview))
 7. [Note](#Notes)
 8. [Advantages](#4-advantages)
 9. [Read License](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter/blob/master/LICENSE)
