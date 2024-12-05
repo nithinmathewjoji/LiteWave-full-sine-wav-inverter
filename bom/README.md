@@ -35,5 +35,5 @@
 | 32  | 5.1R               | R15,R18                     | 0.25W-RESISTOR-VERTICAL            | 2        | 0.25W resistor-vertical   |                     |          | undefined     |         |
 | 33  | CHOKE              | T1                           | INDUCTOR COMMON MODE             
 
- | 1        |                           |                     |          | undefined     |         |
+
 
