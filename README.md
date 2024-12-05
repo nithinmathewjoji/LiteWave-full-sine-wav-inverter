@@ -22,7 +22,7 @@
 3. [Working Principle](#3-working-principle)
 4. [List of Components](#List-of-Materials)
 5. [View ibom](https://nithinmathewjoji.github.io/LiteWave-full-sine-wav-inverter/)
-6. [PCB Details & Preview](#PCB-Details-&-preview)
+6. [PCB Details & preview](#PCB-Details-&-preview)
 7. [Note](#Notes)
 8. [Advantages](#4-advantages)
 9. [Read License](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter/blob/master/LICENSE)
@@ -148,7 +148,7 @@ The Full Sine Wave Inverter circuit is designed to convert DC power into a clean
 | 1            | Rectifier Bridge                       | GBU404 or equivalent                 | High-voltage rectification        |
 
 ---
-### **PCB Details & preview**
+#### **PCB Details & preview**
 [View in Detail](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter/blob/master/PCB%20Preview/README.md)
 
 
