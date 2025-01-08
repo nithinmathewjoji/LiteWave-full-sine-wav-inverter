@@ -8,7 +8,9 @@ The following table lists the versions of this project currently supported with 
 
 | **Version** | **Supported**          |  
 | ----------- | ---------------------- |  
-| V2          | :white_check_mark:     |  
+| V1.1.1          | :white_check_mark:     |
+| V1.1.0         | :white_check_mark:     | 
+| V1.0.0          | :white_check_mark:     | 
  
 
 For older versions, we recommend upgrading to the latest supported version to ensure you receive critical updates and patches.
