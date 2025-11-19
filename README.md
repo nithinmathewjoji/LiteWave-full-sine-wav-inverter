@@ -12,6 +12,24 @@
   </a>
 </p>
 
+<p>This project is proudly supported by PCBWay, a company I personally rely on for PCB manufacturing and prototyping. I’ve used their services for my hardware builds, and their quality, turnaround time, and pricing beat most of what I’ve tried before.
+
+🔧 Why PCBWay stands out:
+
+High-quality boards with excellent finishing
+
+Fast production & reliable global shipping
+
+Low-cost prototypes and student-friendly pricing
+
+Options for assembly, CNC machining, 3D printing & more
+
+Easy-to-use online quote & order system
+
+Their support helps me keep this project alive and evolving. If you're building hardware and need professional PCB manufacturing, I genuinely recommend trying PCBWay — they've earned my trust long before sponsoring me.
+
+👉 Check them out: ([PCBWay link](https://www.pcbway.com/))</p>
+
 ---
 
 #### **Table of Contents**
